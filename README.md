@@ -14,8 +14,8 @@
 |   Team Leader   |Avishi Goyal|CB.EN.U4CCE26110|Female| ECE |  
 |    Member 2     |Prakshit Yadav|CB.SC.U4AIE26047|MALE| CSE AI |  
 |    Member 3     |Chhavi Taori|CB.AI.U4AIM26008|Female|AI- DS|  
-|    Member 4     |Karan Gera|CB.AI.U4QTS26025| Male|                                |   
-|    Member 5     |Pratik Barik|CB.EN.U4ELC26134|Male|                                 |  
+|    Member 4     |Karan Gera|CB.AI.U4QTS26025| Male|AIDS-QTS|   
+|    Member 5     |Pratik Barik|CB.EN.U4ELC26134|Male|ELC|  
 |    Member 6     |Adityanarayan Raj| CB.EN.U4MEE26004| Male |MEE|   
 
 #### Mentor Details
